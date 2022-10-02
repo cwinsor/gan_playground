@@ -1,0 +1,5 @@
+venv
+*.png
+*.gif
+training_checkpoints
+.ipynb_checkpoints
